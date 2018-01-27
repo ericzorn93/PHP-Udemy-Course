@@ -19,8 +19,8 @@
           <file leaf-file-name="login_delete.php" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/demo-2/mysql/login_delete.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-121">
-                  <caret line="27" column="38" lean-forward="false" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+                <state relative-caret-position="240">
+                  <caret line="16" column="26" lean-forward="false" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
                   <folding />
                 </state>
               </provider>
@@ -43,17 +43,17 @@
           <file leaf-file-name="functions.php" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/demo-2/mysql/functions.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="135">
-                  <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+                <state relative-caret-position="204">
+                  <caret line="93" column="0" lean-forward="true" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
                   <folding>
                     <element signature="e#6#89#0#PHP" expanded="true" />
-                    <marker date="1517069419996" expanded="true" signature="307:344" ph="INSERT INTO users... " />
-                    <marker date="1517069419996" expanded="true" signature="578:588" ph="..." />
-                    <marker date="1517069419996" expanded="true" signature="733:752" ph="SELECT * FRO... users" />
-                    <marker date="1517069419996" expanded="true" signature="1235:1251" ph="UPDATE users... " />
-                    <marker date="1517069419996" expanded="true" signature="1571:1582" ph="..." />
-                    <marker date="1517069419996" expanded="true" signature="1807:1824" ph="DELETE FROM users... " />
-                    <marker date="1517069419996" expanded="true" signature="2029:2039" ph="..." />
+                    <marker date="1517069941983" expanded="true" signature="307:344" ph="INSERT INTO users... " />
+                    <marker date="1517069941983" expanded="true" signature="578:588" ph="..." />
+                    <marker date="1517069941983" expanded="true" signature="733:752" ph="SELECT * FRO... users" />
+                    <marker date="1517069941983" expanded="true" signature="1235:1251" ph="UPDATE users... " />
+                    <marker date="1517069941983" expanded="true" signature="1571:1582" ph="..." />
+                    <marker date="1517069941983" expanded="true" signature="1862:1879" ph="DELETE FROM users... " />
+                    <marker date="1517069941983" expanded="true" signature="2108:2118" ph="..." />
                   </folding>
                 </state>
               </provider>
@@ -116,6 +116,7 @@
         <option value="$PROJECT_DIR$/demo-2/mysql/db.php" />
         <option value="$PROJECT_DIR$/demo-2/mysql/login_create.php" />
         <option value="$PROJECT_DIR$/demo-2/mysql/login_update.php" />
+        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/demo-2/mysql/login_delete.php" />
         <option value="$PROJECT_DIR$/demo-2/mysql/functions.php" />
       </list>
@@ -249,12 +250,12 @@
       <workItem from="1516768108242" duration="2825000" />
       <workItem from="1516922990213" duration="1344000" />
       <workItem from="1516998196437" duration="4165000" />
-      <workItem from="1517068123561" duration="1278000" />
+      <workItem from="1517068123561" duration="1922000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33219000" />
+    <option name="totallyTimeSpent" value="33863000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="722" y="0" width="718" height="900" extended-state="0" />
@@ -292,13 +293,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/demo-2/while_loop.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/demo-2/blank.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -582,27 +576,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="60">
+            <caret line="4" column="37" lean-forward="false" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/demo-2/mysql/login_delete.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-121">
-          <caret line="27" column="38" lean-forward="false" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+        <state relative-caret-position="240">
+          <caret line="16" column="26" lean-forward="false" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demo-2/mysql/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        <state relative-caret-position="204">
+          <caret line="93" column="0" lean-forward="true" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
           <folding>
             <element signature="e#6#89#0#PHP" expanded="true" />
-            <marker date="1517069419996" expanded="true" signature="307:344" ph="INSERT INTO users... " />
-            <marker date="1517069419996" expanded="true" signature="578:588" ph="..." />
-            <marker date="1517069419996" expanded="true" signature="733:752" ph="SELECT * FRO... users" />
-            <marker date="1517069419996" expanded="true" signature="1235:1251" ph="UPDATE users... " />
-            <marker date="1517069419996" expanded="true" signature="1571:1582" ph="..." />
-            <marker date="1517069419996" expanded="true" signature="1807:1824" ph="DELETE FROM users... " />
-            <marker date="1517069419996" expanded="true" signature="2029:2039" ph="..." />
+            <marker date="1517069941983" expanded="true" signature="307:344" ph="INSERT INTO users... " />
+            <marker date="1517069941983" expanded="true" signature="578:588" ph="..." />
+            <marker date="1517069941983" expanded="true" signature="733:752" ph="SELECT * FRO... users" />
+            <marker date="1517069941983" expanded="true" signature="1235:1251" ph="UPDATE users... " />
+            <marker date="1517069941983" expanded="true" signature="1571:1582" ph="..." />
+            <marker date="1517069941983" expanded="true" signature="1862:1879" ph="DELETE FROM users... " />
+            <marker date="1517069941983" expanded="true" signature="2108:2118" ph="..." />
           </folding>
         </state>
       </provider>

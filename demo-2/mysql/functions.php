@@ -89,23 +89,25 @@ function UpdateTable() {
 // Delete Database Items
 function deleteRows() {
 
-    global $connection;
+    if (isset($_POST["submit"])) {
+        global $connection;
 
-    $username = $_POST['username'];
-    $password = $_POST['password'];
-    $id = $_POST['id'];
-
-
-    $query = "DELETE FROM users ";
-    $query .= "WHERE id  = $id ";
+        $username = $_POST['username'];
+        $password = $_POST['password'];
+        $id = $_POST['id'];
 
 
-    $result = mysqli_query($connection, $query);
+        $query = "DELETE FROM users ";
+        $query .= "WHERE id  = $id ";
 
-    if (!$result) {
-        die("QUERY FAILED" . mysqli_error($connection));
-    } else {
-        echo "<h3 style='color: red'>Record Deleted</h3>";
+
+        $result = mysqli_query($connection, $query);
+
+        if (!$result) {
+            die("QUERY FAILED" . mysqli_error($connection));
+        } else {
+            echo "<h3 style='color: red'>Record Deleted</h3>";
+        }
     }
 }
 
