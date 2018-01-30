@@ -15,6 +15,16 @@ function createRows() {
         $username = $_POST["username"];
         $password = $_POST["password"];
 
+        $username = mysqli_real_escape_string($connection, $username);
+        $password = mysqli_real_escape_string($connection, $password);
+
+        $hashFormat = "$2y$10$";
+        $salt = "iusedsomecrazystrings22";
+        $hashF_and_salt = $hashFormat. $salt;
+
+        //Encrypt the Password with Hash
+        $password = crypt($password, $hashF_and_salt);
+
 
         $query = "INSERT INTO users(username, password) ";
         $query .= "VALUES ('$username', '$password')";
@@ -108,6 +118,22 @@ function deleteRows() {
         } else {
             echo "<h3 style='color: red'>Record Deleted</h3>";
         }
+    }
+}
+
+
+function readRows() {
+    global $connection;
+    $query = "SELECT * FROM users";
+
+    $result = mysqli_query($connection, $query);
+
+    if (!$result) {
+        die("Query FAILED" . mysqli_error());
+    }
+
+    while ($row = mysqli_fetch_assoc($result)) {
+        print_r($row);
     }
 }
 
