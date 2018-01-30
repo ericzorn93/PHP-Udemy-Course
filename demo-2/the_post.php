@@ -1,3 +1,9 @@
+<?php
+
+    $name = $_POST['name'];
+    echo $name;
+?>
+
 <!doctype html>
 <html lang="en">
 <head>
@@ -5,9 +11,14 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
+    <title>HTTP POST Method PHP</title>
 </head>
 <body>
+
+<form action="the_post.php" method="post">
+    <input type="text" name="name" placeholder="Enter Name" id="name">
+    <button type="submit">Submit</button>
+</form>
 
 </body>
 </html>

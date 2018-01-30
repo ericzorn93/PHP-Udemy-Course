@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2aa04af-9bf2-4606-941c-7253e080f889" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/demo-2/the_post.php" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/cms" afterPath="$PROJECT_DIR$/cms" />
       <change beforePath="$PROJECT_DIR$/demo" afterPath="$PROJECT_DIR$/demo" />
-      <change beforePath="$PROJECT_DIR$/demo-2/get.php" afterPath="$PROJECT_DIR$/demo-2/get.php" />
+      <change beforePath="$PROJECT_DIR$/demo-2/the_post.php" afterPath="$PROJECT_DIR$/demo-2/the_post.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -33,8 +31,8 @@
       <file leaf-file-name="the_post.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/demo-2/the_post.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="30">
+              <caret line="2" column="27" lean-forward="false" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -108,6 +106,7 @@
         <option value="$PROJECT_DIR$/demo-2/mysql/functions.php" />
         <option value="$PROJECT_DIR$/demo/_practical-app/8.php" />
         <option value="$PROJECT_DIR$/demo-2/get.php" />
+        <option value="$PROJECT_DIR$/demo-2/the_post.php" />
       </list>
     </option>
   </component>
@@ -242,15 +241,16 @@
       <workItem from="1517068123561" duration="1947000" />
       <workItem from="1517161017473" duration="69000" />
       <workItem from="1517284326072" duration="1272000" />
-      <workItem from="1517347370316" duration="4007000" />
+      <workItem from="1517347370316" duration="4617000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39236000" />
+    <option name="totallyTimeSpent" value="39846000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="722" y="0" width="718" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6301775" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -623,8 +623,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/demo-2/the_post.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="30">
+          <caret line="2" column="27" lean-forward="false" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
           <folding />
         </state>
       </provider>
