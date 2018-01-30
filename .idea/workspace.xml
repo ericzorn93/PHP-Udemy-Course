@@ -2,19 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2aa04af-9bf2-4606-941c-7253e080f889" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/demo-2/get.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/demo-2/mysql/includes/footer.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/demo-2/mysql/includes/header.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/demo-2/the_post.php" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/cms" afterPath="$PROJECT_DIR$/cms" />
       <change beforePath="$PROJECT_DIR$/demo" afterPath="$PROJECT_DIR$/demo" />
-      <change beforePath="$PROJECT_DIR$/demo-2/mysql/functions.php" afterPath="$PROJECT_DIR$/demo-2/mysql/functions.php" />
-      <change beforePath="$PROJECT_DIR$/demo-2/mysql/login.php" afterPath="$PROJECT_DIR$/demo-2/mysql/login.php" />
-      <change beforePath="$PROJECT_DIR$/demo-2/mysql/login_create.php" afterPath="$PROJECT_DIR$/demo-2/mysql/login_create.php" />
-      <change beforePath="$PROJECT_DIR$/demo-2/mysql/login_delete.php" afterPath="$PROJECT_DIR$/demo-2/mysql/login_delete.php" />
-      <change beforePath="$PROJECT_DIR$/demo-2/mysql/login_read.php" afterPath="$PROJECT_DIR$/demo-2/mysql/login_read.php" />
-      <change beforePath="$PROJECT_DIR$/demo-2/mysql/login_update.php" afterPath="$PROJECT_DIR$/demo-2/mysql/login_update.php" />
+      <change beforePath="$PROJECT_DIR$/demo-2/get.php" afterPath="$PROJECT_DIR$/demo-2/get.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,11 +20,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="get.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/demo-2/get.php">
+      <file leaf-file-name="blank.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo-2/blank.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="18" lean-forward="false" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+            <state relative-caret-position="180">
+              <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="the_post.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/demo-2/the_post.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -240,16 +242,15 @@
       <workItem from="1517068123561" duration="1947000" />
       <workItem from="1517161017473" duration="69000" />
       <workItem from="1517284326072" duration="1272000" />
-      <workItem from="1517347370316" duration="3403000" />
+      <workItem from="1517347370316" duration="4007000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38632000" />
+    <option name="totallyTimeSpent" value="39236000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="722" y="0" width="718" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6301775" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -283,7 +284,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/demo-2/_practical-app/js/myscript.js" />
     <entry file="file://$PROJECT_DIR$/demo/example.html" />
     <entry file="file://$PROJECT_DIR$/demo/embed.php" />
     <entry file="file://$PROJECT_DIR$/demo/dynamic_text.php" />
@@ -605,6 +605,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/demo-2/get.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="29" lean-forward="false" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/demo-2/blank.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -613,10 +621,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo-2/get.php">
+    <entry file="file://$PROJECT_DIR$/demo-2/the_post.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="18" lean-forward="false" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
