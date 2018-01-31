@@ -21,5 +21,17 @@
 </head>
 <body>
 
+<?php
+
+    if (isset($_COOKIE["SomeName"])) {
+        $someOne = $_COOKIE["SomeName"];
+
+        echo $someOne;
+    } else {
+        $someOne = "";
+    }
+
+?>
+
 </body>
 </html>
