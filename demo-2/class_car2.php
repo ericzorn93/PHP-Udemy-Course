@@ -1,18 +1,24 @@
 <?php
 
 
-class Car {
+class Car
+{
 
-    
+    function MoveWheels()
+    {
+        echo "Wheels move";
+    }
 
 }
 
 
-if (class_exists("Car")) {
-    echo "YEAAAAAAyyyyyyyy Nice";
+if (method_exists("Car", 'MoveWheels')) {
+    echo "The Method exists";
 } else {
-    echo "No";
+    echo "No it does not";
 }
+
+
 
 
 ?>
