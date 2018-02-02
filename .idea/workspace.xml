@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2aa04af-9bf2-4606-941c-7253e080f889" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/demo-2/class_static.php" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/cms" afterPath="$PROJECT_DIR$/cms" />
       <change beforePath="$PROJECT_DIR$/demo" afterPath="$PROJECT_DIR$/demo" />
     </list>
@@ -19,22 +17,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="class_car3.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo-2/class_car3.php">
+      <file leaf-file-name="10.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/demo/_practical-app/10.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="157">
-              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="class_static.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/demo-2/class_static.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="24" lean-forward="false" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
-              <folding />
+            <state relative-caret-position="560">
+              <caret line="77" column="39" lean-forward="false" selection-start-line="77" selection-start-column="39" selection-end-line="77" selection-end-column="39" />
+              <folding>
+                <element signature="e#238#552#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -65,7 +55,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/demo-2/arrays.php" />
         <option value="$PROJECT_DIR$/demo-2/arrays_assoc.php" />
         <option value="$PROJECT_DIR$/demo/_practical-app/2.php" />
         <option value="$PROJECT_DIR$/demo-2/ifstatement.php" />
@@ -116,6 +105,7 @@
         <option value="$PROJECT_DIR$/demo-2/class_constructor.php" />
         <option value="$PROJECT_DIR$/demo-2/class_access.php" />
         <option value="$PROJECT_DIR$/demo-2/class_static.php" />
+        <option value="$PROJECT_DIR$/demo/_practical-app/10.php" />
       </list>
     </option>
   </component>
@@ -163,7 +153,13 @@
             <path>
               <item name="PHP Course" type="b2602c69:ProjectViewProjectNode" />
               <item name="PHP Course" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="demo-2" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="demo" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="PHP Course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PHP Course" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="demo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="_practical-app" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -255,7 +251,7 @@
       <workItem from="1517356911584" duration="458000" />
       <workItem from="1517368329779" duration="4034000" />
       <workItem from="1517526131657" duration="19000" />
-      <workItem from="1517526244856" duration="6123000" />
+      <workItem from="1517526244856" duration="7804000" />
     </task>
     <task id="LOCAL-00001" summary="Updating CMS and Demo">
       <created>1517531477221</created>
@@ -268,7 +264,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51506000" />
+    <option name="totallyTimeSpent" value="53187000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -319,13 +315,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/demo/_practical-app/2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="39" column="13" lean-forward="false" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/demo-2/ifstatement.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -666,6 +655,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/demo-2/class_static.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="24" lean-forward="false" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/demo-2/class_car3.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="157">
@@ -674,11 +671,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo-2/class_static.php">
+    <entry file="file://$PROJECT_DIR$/demo/_practical-app/10.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="24" lean-forward="false" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
-          <folding />
+        <state relative-caret-position="560">
+          <caret line="77" column="39" lean-forward="false" selection-start-line="77" selection-start-column="39" selection-end-line="77" selection-end-column="39" />
+          <folding>
+            <element signature="e#238#552#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
