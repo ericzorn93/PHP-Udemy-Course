@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2aa04af-9bf2-4606-941c-7253e080f889" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/demo-2/class_constructor.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/demo-2/class_access.php" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/cms" afterPath="$PROJECT_DIR$/cms" />
       <change beforePath="$PROJECT_DIR$/demo" afterPath="$PROJECT_DIR$/demo" />
@@ -19,21 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="class_car3.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo-2/class_car3.php">
+      <file leaf-file-name="class_access.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/demo-2/class_access.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
-              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="class_constructor.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/demo-2/class_constructor.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+            <state relative-caret-position="180">
+              <caret line="12" column="27" lean-forward="false" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -65,7 +55,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/demo-2/variables.php" />
         <option value="$PROJECT_DIR$/demo-2/math.php" />
         <option value="$PROJECT_DIR$/demo-2/arrays.php" />
         <option value="$PROJECT_DIR$/demo-2/arrays_assoc.php" />
@@ -116,6 +105,7 @@
         <option value="$PROJECT_DIR$/demo-2/class_car3.php" />
         <option value="$PROJECT_DIR$/demo-2/class_inheritance.php" />
         <option value="$PROJECT_DIR$/demo-2/class_constructor.php" />
+        <option value="$PROJECT_DIR$/demo-2/class_access.php" />
       </list>
     </option>
   </component>
@@ -255,7 +245,7 @@
       <workItem from="1517356911584" duration="458000" />
       <workItem from="1517368329779" duration="4034000" />
       <workItem from="1517526131657" duration="19000" />
-      <workItem from="1517526244856" duration="5233000" />
+      <workItem from="1517526244856" duration="5734000" />
     </task>
     <task id="LOCAL-00001" summary="Updating CMS and Demo">
       <created>1517531477221</created>
@@ -268,7 +258,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50616000" />
+    <option name="totallyTimeSpent" value="51117000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -319,13 +309,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/demo-2/arrays.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/demo-2/arrays_assoc.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -664,6 +647,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/demo-2/class_constructor.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/demo-2/class_car3.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="149">
@@ -672,10 +663,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo-2/class_constructor.php">
+    <entry file="file://$PROJECT_DIR$/demo-2/class_access.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        <state relative-caret-position="180">
+          <caret line="12" column="27" lean-forward="false" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
           <folding />
         </state>
       </provider>
