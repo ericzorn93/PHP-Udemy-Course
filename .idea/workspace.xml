@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2aa04af-9bf2-4606-941c-7253e080f889" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/demo-2/session1.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/demo-2/session2.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/demo-2/class_car.php" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/cms" afterPath="$PROJECT_DIR$/cms" />
       <change beforePath="$PROJECT_DIR$/demo" afterPath="$PROJECT_DIR$/demo" />
@@ -20,21 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="session1.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/demo-2/session1.php">
+      <file leaf-file-name="class_car.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/demo-2/class_car.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="58" lean-forward="false" selection-start-line="4" selection-start-column="58" selection-end-line="4" selection-end-column="58" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="session2.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo-2/session2.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+            <state relative-caret-position="75">
+              <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -52,6 +41,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>mysqli_real</find>
+      <find>die</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -60,8 +50,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/demo/example.html" />
-        <option value="$PROJECT_DIR$/demo/blank.php" />
         <option value="$PROJECT_DIR$/demo/embed.php" />
         <option value="$PROJECT_DIR$/demo/dynamic_text.php" />
         <option value="$PROJECT_DIR$/demo/comments.php" />
@@ -111,6 +99,8 @@
         <option value="$PROJECT_DIR$/demo-2/cookies.php" />
         <option value="$PROJECT_DIR$/demo-2/session2.php" />
         <option value="$PROJECT_DIR$/demo-2/session1.php" />
+        <option value="$PROJECT_DIR$/demo/_practical-app/9.php" />
+        <option value="$PROJECT_DIR$/demo-2/class_car.php" />
       </list>
     </option>
   </component>
@@ -148,7 +138,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -165,6 +154,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -248,12 +238,14 @@
       <workItem from="1517347370316" duration="5610000" />
       <workItem from="1517356849427" duration="33000" />
       <workItem from="1517356911584" duration="458000" />
-      <workItem from="1517368329779" duration="812000" />
+      <workItem from="1517368329779" duration="4034000" />
+      <workItem from="1517526131657" duration="19000" />
+      <workItem from="1517526244856" duration="2209000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42142000" />
+    <option name="totallyTimeSpent" value="47592000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -300,8 +292,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/demo/blank.php" />
-    <entry file="file://$PROJECT_DIR$/demo/comments.php" />
     <entry file="file://$PROJECT_DIR$/demo-2/_practical-app/1.php" />
     <entry file="file://$PROJECT_DIR$/demo/_practical-app/1.php">
       <provider selected="true" editor-type-id="text-editor">
@@ -587,13 +577,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo/_practical-app/8.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="22" lean-forward="false" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/demo-2/get.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -612,6 +595,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="25" lean-forward="false" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-2/session1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-2/session2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/_practical-app/8.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="35" column="22" lean-forward="false" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/_practical-app/9.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-345">
+          <caret line="13" column="2" lean-forward="true" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
           <folding />
         </state>
       </provider>
@@ -624,18 +635,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo-2/session2.php">
+    <entry file="file://$PROJECT_DIR$/demo-2/class_car.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo-2/session1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="58" lean-forward="false" selection-start-line="4" selection-start-column="58" selection-end-line="4" selection-end-column="58" />
+        <state relative-caret-position="75">
+          <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
           <folding />
         </state>
       </provider>
