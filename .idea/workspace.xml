@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2aa04af-9bf2-4606-941c-7253e080f889" name="Default" comment="Updating CMS and Demo">
-      <change beforePath="" afterPath="$PROJECT_DIR$/cms_final/includes/footer.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cms_final/includes/header.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cms_final/includes/navigation.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cms_final/includes/sidebar.php" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/cms_final/includes/db.php" afterPath="$PROJECT_DIR$/cms_final/includes/db.php" />
+      <change beforePath="$PROJECT_DIR$/cms_final/includes/navigation.php" afterPath="$PROJECT_DIR$/cms_final/includes/navigation.php" />
       <change beforePath="$PROJECT_DIR$/cms_final/index.php" afterPath="$PROJECT_DIR$/cms_final/index.php" />
       <change beforePath="$PROJECT_DIR$/demo" afterPath="$PROJECT_DIR$/demo" />
       <change beforePath="$PROJECT_DIR$/templates/cms" afterPath="$PROJECT_DIR$/templates/cms" />
@@ -25,11 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cms_final/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="35" column="16" lean-forward="false" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+            <state relative-caret-position="0">
+              <caret line="0" column="35" lean-forward="false" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -45,12 +43,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="navigation.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="navigation.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cms_final/includes/navigation.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="6" lean-forward="false" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
-              <folding />
+            <state relative-caret-position="420">
+              <caret line="28" column="64" lean-forward="false" selection-start-line="28" selection-start-column="64" selection-end-line="28" selection-end-column="64" />
+              <folding>
+                <marker date="1517718536215" expanded="true" signature="890:914" ph="SELECT * FRO... categories" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="db.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cms_final/includes/db.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="27" column="2" lean-forward="false" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="2" />
+              <folding>
+                <element signature="e#446#501#0#PHP" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -146,12 +158,12 @@
         <option value="$PROJECT_DIR$/cms/includes/header.php" />
         <option value="$PROJECT_DIR$/cms/index.php" />
         <option value="$PROJECT_DIR$/demo-2/test_errors.php" />
-        <option value="$PROJECT_DIR$/cms_final/includes/db.php" />
         <option value="$PROJECT_DIR$/cms_final/includes/header.php" />
         <option value="$PROJECT_DIR$/cms_final/includes/footer.php" />
-        <option value="$PROJECT_DIR$/cms_final/includes/navigation.php" />
         <option value="$PROJECT_DIR$/cms_final/includes/sidebar.php" />
         <option value="$PROJECT_DIR$/cms_final/index.php" />
+        <option value="$PROJECT_DIR$/cms_final/includes/db.php" />
+        <option value="$PROJECT_DIR$/cms_final/includes/navigation.php" />
       </list>
     </option>
   </component>
@@ -171,7 +183,7 @@
       <path value="$PROJECT_DIR$/../../../bin/php/php7.1.6/lib/php" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="x" value="722" />
     <option name="width" value="718" />
     <option name="height" value="900" />
@@ -303,7 +315,7 @@
       <workItem from="1517526131657" duration="19000" />
       <workItem from="1517526244856" duration="8932000" />
       <workItem from="1517617075618" duration="3331000" />
-      <workItem from="1517715825090" duration="1900000" />
+      <workItem from="1517715825090" duration="2714000" />
     </task>
     <task id="LOCAL-00001" summary="Updating CMS and Demo">
       <created>1517531477221</created>
@@ -316,7 +328,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59546000" />
+    <option name="totallyTimeSpent" value="60360000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -328,10 +340,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="722" y="0" width="718" height="900" extended-state="0" />
-    <editor active="true" />
+    <frame x="743" y="0" width="697" height="900" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36242604" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37251908" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.49408284" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33736396" sideWeight="0.5118343" order="8" side_tool="true" content_ui="tabs" />
@@ -339,7 +350,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.48816568" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33736396" sideWeight="0.48816568" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33736396" sideWeight="0.48816568" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39903265" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -676,14 +687,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cms_final/includes/db.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="13" column="62" lean-forward="false" selection-start-line="13" selection-start-column="62" selection-end-line="13" selection-end-column="62" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cms_final/includes/header.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -700,14 +703,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cms_final/includes/navigation.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="6" lean-forward="false" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cms_final/includes/sidebar.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="840">
@@ -718,9 +713,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cms_final/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="16" lean-forward="false" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+        <state relative-caret-position="0">
+          <caret line="0" column="35" lean-forward="false" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cms_final/includes/db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="27" column="2" lean-forward="false" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="2" />
+          <folding>
+            <element signature="e#446#501#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cms_final/includes/navigation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="64" lean-forward="false" selection-start-line="28" selection-start-column="64" selection-end-line="28" selection-end-column="64" />
+          <folding>
+            <marker date="1517718536215" expanded="true" signature="890:914" ph="SELECT * FRO... categories" />
+          </folding>
         </state>
       </provider>
     </entry>
