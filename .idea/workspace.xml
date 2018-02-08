@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2aa04af-9bf2-4606-941c-7253e080f889" name="Default" comment="Updating CMS and Demo">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/cms_final/index.php" afterPath="$PROJECT_DIR$/cms_final/index.php" />
       <change beforePath="$PROJECT_DIR$/demo" afterPath="$PROJECT_DIR$/demo" />
       <change beforePath="$PROJECT_DIR$/templates/cms" afterPath="$PROJECT_DIR$/templates/cms" />
       <change beforePath="$PROJECT_DIR$/templates/cms 2" afterPath="$PROJECT_DIR$/templates/cms 2" />
@@ -19,12 +21,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cms_final/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="35" lean-forward="false" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
-              <folding />
+            <state relative-caret-position="199">
+              <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+              <folding>
+                <marker date="1518065540026" expanded="true" signature="360:379" ph="SELECT * FRO... posts" />
+                <marker date="1518065540026" expanded="true" signature="1727:1750" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -39,11 +44,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="navigation.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="navigation.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cms_final/includes/navigation.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="64" lean-forward="false" selection-start-line="28" selection-start-column="64" selection-end-line="28" selection-end-column="64" />
+            <state relative-caret-position="450">
+              <caret line="30" column="17" lean-forward="true" selection-start-line="23" selection-start-column="16" selection-end-line="30" selection-end-column="17" />
               <folding>
                 <marker date="1517718536215" expanded="true" signature="890:914" ph="SELECT * FRO... categories" />
               </folding>
@@ -157,9 +162,9 @@
         <option value="$PROJECT_DIR$/cms_final/includes/header.php" />
         <option value="$PROJECT_DIR$/cms_final/includes/footer.php" />
         <option value="$PROJECT_DIR$/cms_final/includes/sidebar.php" />
-        <option value="$PROJECT_DIR$/cms_final/index.php" />
         <option value="$PROJECT_DIR$/cms_final/includes/db.php" />
         <option value="$PROJECT_DIR$/cms_final/includes/navigation.php" />
+        <option value="$PROJECT_DIR$/cms_final/index.php" />
       </list>
     </option>
   </component>
@@ -179,13 +184,13 @@
       <path value="$PROJECT_DIR$/../../../bin/php/php7.1.6/lib/php" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="722" />
     <option name="width" value="718" />
     <option name="height" value="900" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -198,32 +203,7 @@
       <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="PHP Course" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PHP Course" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="PHP Course" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PHP Course" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="cms_final" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="PHP Course" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PHP Course" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="cms_final" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="includes" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -311,7 +291,9 @@
       <workItem from="1517526131657" duration="19000" />
       <workItem from="1517526244856" duration="8932000" />
       <workItem from="1517617075618" duration="3331000" />
-      <workItem from="1517715825090" duration="2758000" />
+      <workItem from="1517715825090" duration="3295000" />
+      <workItem from="1517752891332" duration="47000" />
+      <workItem from="1518064052279" duration="1329000" />
     </task>
     <task id="LOCAL-00001" summary="Updating CMS and Demo">
       <created>1517531477221</created>
@@ -324,7 +306,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60404000" />
+    <option name="totallyTimeSpent" value="62317000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -336,7 +318,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="743" y="0" width="697" height="900" extended-state="6" />
+    <frame x="722" y="0" width="718" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37251908" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -344,12 +326,12 @@
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33736396" sideWeight="0.5118343" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.48816568" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.48816568" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33736396" sideWeight="0.48816568" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39903265" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -602,13 +584,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cms/admin/js/plugins/flot/jquery.flot.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4492">
-          <caret line="446" column="19" lean-forward="false" selection-start-line="446" selection-start-column="19" selection-end-line="446" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/cms/admin/js/plugins/flot/jquery.flot.js" />
     <entry file="file://$PROJECT_DIR$/demo-2/opening_files.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -645,27 +621,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cms/includes/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="54" lean-forward="true" selection-start-line="21" selection-start-column="54" selection-end-line="21" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cms/css/blog-home.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cms/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="471">
-          <caret line="94" column="10" lean-forward="true" selection-start-line="94" selection-start-column="10" selection-end-line="94" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/cms/includes/header.php" />
+    <entry file="file://$PROJECT_DIR$/cms/css/blog-home.css" />
+    <entry file="file://$PROJECT_DIR$/cms/index.php" />
     <entry file="file://$PROJECT_DIR$/demo-2/test_errors.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -678,9 +636,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <element signature="e#10026#10032#0#HTML" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -708,14 +663,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cms_final/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="35" lean-forward="false" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cms_final/includes/db.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -728,10 +675,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cms_final/includes/navigation.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="64" lean-forward="false" selection-start-line="28" selection-start-column="64" selection-end-line="28" selection-end-column="64" />
+        <state relative-caret-position="450">
+          <caret line="30" column="17" lean-forward="true" selection-start-line="23" selection-start-column="16" selection-end-line="30" selection-end-column="17" />
           <folding>
             <marker date="1517718536215" expanded="true" signature="890:914" ph="SELECT * FRO... categories" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cms_final/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding>
+            <marker date="1518065540026" expanded="true" signature="360:379" ph="SELECT * FRO... posts" />
+            <marker date="1518065540026" expanded="true" signature="1727:1750" ph="..." />
           </folding>
         </state>
       </provider>
