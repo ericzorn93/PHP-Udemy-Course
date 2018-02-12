@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2aa04af-9bf2-4606-941c-7253e080f889" name="Default" comment="Updating CMS and Demo">
-      <change beforePath="" afterPath="$PROJECT_DIR$/cms_final/includes/widget.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cms_final/admin/includes/footer.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cms_final/admin/includes/header.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cms_final/admin/includes/navigation.php" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/cms_final/includes/sidebar.php" afterPath="$PROJECT_DIR$/cms_final/includes/sidebar.php" />
+      <change beforePath="$PROJECT_DIR$/cms_final/admin/index.php" afterPath="$PROJECT_DIR$/cms_final/admin/index.php" />
+      <change beforePath="$PROJECT_DIR$/cms_final/includes/navigation.php" afterPath="$PROJECT_DIR$/cms_final/includes/navigation.php" />
       <change beforePath="$PROJECT_DIR$/demo" afterPath="$PROJECT_DIR$/demo" />
       <change beforePath="$PROJECT_DIR$/templates/cms" afterPath="$PROJECT_DIR$/templates/cms" />
       <change beforePath="$PROJECT_DIR$/templates/cms 2" afterPath="$PROJECT_DIR$/templates/cms 2" />
@@ -46,7 +49,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sidebar.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="sidebar.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cms_final/includes/sidebar.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
@@ -71,11 +74,51 @@
       <file leaf-file-name="navigation.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cms_final/includes/navigation.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="22" column="16" lean-forward="true" selection-start-line="22" selection-start-column="16" selection-end-line="30" selection-end-column="17" />
+            <state relative-caret-position="450">
+              <caret line="36" column="45" lean-forward="false" selection-start-line="36" selection-start-column="45" selection-end-line="36" selection-end-column="45" />
               <folding>
-                <marker date="1517718536215" expanded="true" signature="890:914" ph="SELECT * FRO... categories" />
+                <marker date="1518410215470" expanded="true" signature="890:914" ph="SELECT * FRO... categories" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cms_final/admin/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="47" lean-forward="false" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="navigation.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cms_final/admin/includes/navigation.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cms_final/admin/includes/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cms_final/admin/includes/footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -84,29 +127,7 @@
         <entry file="file://$PROJECT_DIR$/cms_final/includes/db.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="27" column="2" lean-forward="false" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="2" />
-              <folding>
-                <element signature="e#446#501#0#PHP" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cms_final/includes/header.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="6" lean-forward="false" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cms_final/includes/footer.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="7" lean-forward="false" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+              <caret line="23" column="2" lean-forward="true" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -125,6 +146,8 @@
     <findStrings>
       <find>mysqli_real</find>
       <find>die</find>
+      <find>John Smith</find>
+      <find>Blank</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -138,10 +161,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/demo/_practical-app/5.php" />
-        <option value="$USER_HOME$/Desktop/test.php" />
-        <option value="$PROJECT_DIR$/../../test.php" />
-        <option value="$PROJECT_DIR$/demo-2/form.php" />
         <option value="$PROJECT_DIR$/demo-2/form_external.php" />
         <option value="$PROJECT_DIR$/demo-2/form_process.php" />
         <option value="$PROJECT_DIR$/demo/_practical-app/6.php" />
@@ -183,12 +202,16 @@
         <option value="$PROJECT_DIR$/cms_final/includes/header.php" />
         <option value="$PROJECT_DIR$/cms_final/includes/footer.php" />
         <option value="$PROJECT_DIR$/cms_final/includes/db.php" />
-        <option value="$PROJECT_DIR$/cms_final/includes/navigation.php" />
         <option value="$PROJECT_DIR$/cms_final/index.php" />
         <option value="$PROJECT_DIR$/cms_final/includes/search.php" />
         <option value="$PROJECT_DIR$/cms_final/search.php" />
         <option value="$PROJECT_DIR$/cms_final/includes/widget.php" />
         <option value="$PROJECT_DIR$/cms_final/includes/sidebar.php" />
+        <option value="$PROJECT_DIR$/cms_final/includes/navigation.php" />
+        <option value="$PROJECT_DIR$/cms_final/admin/includes/header.php" />
+        <option value="$PROJECT_DIR$/cms_final/admin/includes/footer.php" />
+        <option value="$PROJECT_DIR$/cms_final/admin/index.php" />
+        <option value="$PROJECT_DIR$/cms_final/admin/includes/navigation.php" />
       </list>
     </option>
   </component>
@@ -246,6 +269,13 @@
               <item name="PHP Course" type="b2602c69:ProjectViewProjectNode" />
               <item name="PHP Course" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="cms_final" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="PHP Course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PHP Course" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="cms_final" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="includes" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
@@ -263,15 +293,16 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Applications/MAMP/htdocs/UDEMY/PHP Course/cms_final/includes/sidebar.php" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/cms_final" />
-      <recent name="$PROJECT_DIR$/cms_final/includes" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/cms_final" />
       <recent name="$PROJECT_DIR$/demo-2" />
       <recent name="$PROJECT_DIR$/demo-2/mysql" />
       <recent name="$PROJECT_DIR$/demo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cms_final/admin/includes" />
+      <recent name="$PROJECT_DIR$/cms_final" />
+      <recent name="$PROJECT_DIR$/cms_final/includes" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -350,7 +381,7 @@
       <workItem from="1518064052279" duration="1815000" />
       <workItem from="1518129674581" duration="2337000" />
       <workItem from="1518236175577" duration="1298000" />
-      <workItem from="1518409082602" duration="792000" />
+      <workItem from="1518409082602" duration="2542000" />
     </task>
     <task id="LOCAL-00001" summary="Updating CMS and Demo">
       <created>1517531477221</created>
@@ -363,7 +394,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67230000" />
+    <option name="totallyTimeSpent" value="68980000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -378,7 +409,7 @@
     <frame x="722" y="0" width="718" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37130177" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37130177" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.49408284" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33736396" sideWeight="0.5118343" order="8" side_tool="true" content_ui="tabs" />
@@ -416,37 +447,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/demo-2/form_process.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="46" lean-forward="false" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/_practical-app/6.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="26" column="27" lean-forward="false" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="60">
-            <caret line="4" column="37" lean-forward="false" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo-2/mysql/includes/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/demo-2/mysql/login_update.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="411">
@@ -700,16 +700,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cms_final/includes/db.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="27" column="2" lean-forward="false" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="2" />
-          <folding>
-            <element signature="e#446#501#0#PHP" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cms_final/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
@@ -730,16 +720,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cms_final/includes/navigation.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="22" column="16" lean-forward="true" selection-start-line="22" selection-start-column="16" selection-end-line="30" selection-end-column="17" />
-          <folding>
-            <marker date="1517718536215" expanded="true" signature="890:914" ph="SELECT * FRO... categories" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cms_final/includes/widget.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -755,6 +735,56 @@
           <folding>
             <marker date="1518409868663" expanded="true" signature="720:744" ph="SELECT * FRO... categories" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cms_final/includes/db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="23" column="2" lean-forward="true" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cms_final/includes/navigation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="36" column="45" lean-forward="false" selection-start-line="36" selection-start-column="45" selection-end-line="36" selection-end-column="45" />
+          <folding>
+            <marker date="1518410215470" expanded="true" signature="890:914" ph="SELECT * FRO... categories" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cms_final/admin/includes/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cms_final/admin/includes/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cms_final/admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="47" lean-forward="false" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cms_final/admin/includes/navigation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
