@@ -14,14 +14,20 @@
       <file leaf-file-name="categories.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/admin/categories.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="444">
-              <caret line="92" column="68" lean-forward="false" selection-start-line="92" selection-start-column="68" selection-end-line="92" selection-end-column="68" />
+            <state relative-caret-position="-73">
+              <caret line="86" column="0" lean-forward="true" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
               <folding>
-                <marker date="1519344520320" expanded="true" signature="923:956" ph="INSERT INTO categories... " />
-                <marker date="1519344520320" expanded="true" signature="2602:2626" ph="SELECT * FRO... categories" />
-                <marker date="1519344520320" expanded="true" signature="3734:3756" ph="DELETE FROM categories... " />
-                <marker date="1519344520320" expanded="true" signature="3734:3772" ph="DELETE FROM categories... " />
-                <marker date="1519344520320" expanded="true" signature="3734:3774" ph="DELETE FROM categories... " />
+                <marker date="1519345110576" expanded="true" signature="923:956" ph="INSERT INTO categories... " />
+                <marker date="1519345110576" expanded="true" signature="2440:2480" ph="SELECT * FRO... categories" />
+                <marker date="1519345110576" expanded="true" signature="2440:2481" ph="SELECT * FRO... categories" />
+                <marker date="1519345110576" expanded="true" signature="3646:3850" ph="..." />
+                <marker date="1519345110576" expanded="true" signature="3679:3813" ph="..." />
+                <marker date="1519345110576" expanded="true" signature="3886:4060" ph="..." />
+                <marker date="1519345110576" expanded="true" signature="3919:4060" ph="..." />
+                <marker date="1519345110576" expanded="true" signature="4062:4086" ph="SELECT * FRO... categories" />
+                <marker date="1519345110576" expanded="true" signature="5300:5322" ph="DELETE FROM categories... " />
+                <marker date="1519345110576" expanded="true" signature="5300:5338" ph="DELETE FROM categories... " />
+                <marker date="1519345110576" expanded="true" signature="5300:5340" ph="DELETE FROM categories... " />
               </folding>
             </state>
           </provider>
@@ -120,12 +126,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1519343480406</updated>
-      <workItem from="1519343481537" duration="1033000" />
+      <workItem from="1519343481537" duration="1645000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1033000" />
+    <option name="totallyTimeSpent" value="1645000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -181,14 +187,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/categories.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="92" column="68" lean-forward="false" selection-start-line="92" selection-start-column="68" selection-end-line="92" selection-end-column="68" />
+        <state relative-caret-position="-73">
+          <caret line="86" column="0" lean-forward="true" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
           <folding>
-            <marker date="1519344520320" expanded="true" signature="923:956" ph="INSERT INTO categories... " />
-            <marker date="1519344520320" expanded="true" signature="2602:2626" ph="SELECT * FRO... categories" />
-            <marker date="1519344520320" expanded="true" signature="3734:3756" ph="DELETE FROM categories... " />
-            <marker date="1519344520320" expanded="true" signature="3734:3772" ph="DELETE FROM categories... " />
-            <marker date="1519344520320" expanded="true" signature="3734:3774" ph="DELETE FROM categories... " />
+            <marker date="1519345110576" expanded="true" signature="923:956" ph="INSERT INTO categories... " />
+            <marker date="1519345110576" expanded="true" signature="2440:2480" ph="SELECT * FRO... categories" />
+            <marker date="1519345110576" expanded="true" signature="2440:2481" ph="SELECT * FRO... categories" />
+            <marker date="1519345110576" expanded="true" signature="3646:3850" ph="..." />
+            <marker date="1519345110576" expanded="true" signature="3679:3813" ph="..." />
+            <marker date="1519345110576" expanded="true" signature="3886:4060" ph="..." />
+            <marker date="1519345110576" expanded="true" signature="3919:4060" ph="..." />
+            <marker date="1519345110576" expanded="true" signature="4062:4086" ph="SELECT * FRO... categories" />
+            <marker date="1519345110576" expanded="true" signature="5300:5322" ph="DELETE FROM categories... " />
+            <marker date="1519345110576" expanded="true" signature="5300:5338" ph="DELETE FROM categories... " />
+            <marker date="1519345110576" expanded="true" signature="5300:5340" ph="DELETE FROM categories... " />
           </folding>
         </state>
       </provider>
